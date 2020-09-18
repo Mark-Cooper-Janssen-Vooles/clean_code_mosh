@@ -1,0 +1,17 @@
+C:\Projects\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.UnitTests.dll
+C:\Projects\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.UnitTests.pdb
+C:\Projects\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.dll
+C:\Projects\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.pdb
+C:\Projects\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.csprojResolveAssemblyReference.cache
+C:\Projects\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.dll
+C:\Projects\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\clean-code-mosh\CleanCode\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.UnitTests.dll
+C:\Users\mark.janssen-vooles\code\tutorials\clean-code-mosh\CleanCode\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.UnitTests.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\clean-code-mosh\CleanCode\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.dll
+C:\Users\mark.janssen-vooles\code\tutorials\clean-code-mosh\CleanCode\CleanCode\CleanCode.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mark.janssen-vooles\code\tutorials\clean-code-mosh\CleanCode\CleanCode\CleanCode.UnitTests\bin\Debug\CleanCode.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\clean-code-mosh\CleanCode\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\clean-code-mosh\CleanCode\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\clean-code-mosh\CleanCode\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.csproj.CopyComplete
+C:\Users\mark.janssen-vooles\code\tutorials\clean-code-mosh\CleanCode\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.dll
+C:\Users\mark.janssen-vooles\code\tutorials\clean-code-mosh\CleanCode\CleanCode\CleanCode.UnitTests\obj\Debug\CleanCode.UnitTests.pdb
